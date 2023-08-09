@@ -1,6 +1,22 @@
 git+https://github.com/huggingface/diffusers.git
-git+https://github.com/huggingface/transformers.git
---extra-index-url https://download.pytorch.org/whl/cu113
-torch >= 2.0
-huggingface_hub
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+torch==2.0.1+cu118
+torch>=2.0.0
+torchaudio>=2.0.0
+tqdm
+gradio
+pyyaml
+einops
+chardet
+numpy<=1.23.5
+soundfile
+librosa==0.9.2
+scipy
+pandas
+torchlibrosa>=0.0.9
 transformers==4.30.2
+huggingface_hub
+progressbar
+ftfy
+timm
