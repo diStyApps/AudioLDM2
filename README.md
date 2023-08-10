@@ -1,3 +1,12 @@
+## Unlocked
+- Can generate on model about 50 sec audioldm2-full
+
+## Models
+ - audioldm2-full
+ - audioldm2-full-large-650k
+ - audioldm2-music-665k
+
+
 # AudioLDM 2
 
 [![arXiv](https://img.shields.io/badge/arXiv-2301.12503-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2301.12503)  [![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://audioldm.github.io/audioldm2/)  [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/haoheliu/audioldm2-text2audio-text2music)  
